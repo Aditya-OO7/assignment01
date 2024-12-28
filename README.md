@@ -5,7 +5,7 @@
 This project provides a set of scripts to automate operations on a bare Kubernetes cluster, including connecting to the cluster, installing Helm and KEDA, creating deployments with event-driven scaling, and retrieving health status for a given deployment ID.
 
 ## Project Structure
-
+```
 k8s-automation-script/
 ├── config/
 │   └── config.yaml
@@ -22,7 +22,7 @@ k8s-automation-script/
 ├── deploy.yaml
 ├── requirements.txt
 └── setup.py
-
+```
 ## Prerequisites
 
 - Python 3.x
