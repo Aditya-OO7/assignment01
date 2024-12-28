@@ -1,0 +1,3 @@
+deployment: manifests/deployment.yaml
+service: manifests/service.yaml
+hpa: manifests/hpa.yaml
